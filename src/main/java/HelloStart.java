@@ -3,6 +3,6 @@
  */
 public class HelloStart {
 
-
+    System.out.println("Hello World!");
 
 }
